@@ -122,4 +122,23 @@ footer{
 
 }
 .nav li {
-    display: inline-block;}
+    display: inline-block;
+}
+.Bonus_Part{
+    display: inline-block;
+    width: 90%;
+    padding: 10px;
+    box-shadow: 2px 2px 20px gray;
+    padding: 10px;
+    margin: 10px;
+}
+.Bonus_part_details{
+    display: inline-block;
+    padding: 50px; 
+    padding-left: 20px;
+    margin: 25px;
+    margin-left: 10px;
+}
+.Information{
+    text-decoration-line: underline;
+}
